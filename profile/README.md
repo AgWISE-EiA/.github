@@ -3,9 +3,9 @@
 
 To learn about github have a look at the following resources
 
-[Github skills](https://skills.github.com/){:target="\_blank"}
+<a href="https://skills.github.com/" target="_blank">Github skills</a>
 
-[YouTube video resources](https://youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-){:target="\_blank"}
+<a href="https://youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-" target="_blank">YouTube video resources</a>
 
 
-[Textual resources](https://github.com/AgWISE-EiA/introduction-to-github){:target="\_blank"}
+<a href="https://github.com/AgWISE-EiA/introduction-to-github" target="_blank">Textual resources</a>
