@@ -3,6 +3,8 @@
 
 To learn about github have a look at the following resources
 
+[Github skills](https://skills.github.com/)
+
 [YouTube video resources](https://youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 
 
